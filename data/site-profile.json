@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "s9onlinepk.com",
+  "brand": "S9 Roman Urdu Help",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "S9-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://s9onlinepk.com/",
+  "siteType": "authority",
+  "positioning": "S9 Roman Urdu local help authority for Pakistan mobile users",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "s9 game kaise download kare",
+    "s9 online Pakistan"
+  ],
+  "secondaryKeywords": [
+    "s9 password bhool gaya",
+    "s9 login OTP limit",
+    "s9 number already used"
+  ],
+  "technical": {
+    "sitemapUrl": "https://s9onlinepk.com/sitemap.xml",
+    "robotsUrl": "https://s9onlinepk.com/robots.txt",
+    "feedUrl": "https://s9onlinepk.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:s9onlinepk.com",
+    "connected": false
+  }
+}
