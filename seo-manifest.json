@@ -1,0 +1,60 @@
+{
+    "schemaVersion":  "1.0",
+    "domain":  "s9onlinepk.com",
+    "brand":  "S9 Roman Urdu Help",
+    "market":  "Pakistan",
+    "language":  "en-PK",
+    "batch":  "S9-P1",
+    "owner":  "alexgkbet888-web",
+    "repoUrl":  "https://github.com/alexgkbet888-web/s9onlinepk.com",
+    "deployUrl":  "https://s9onlinepk.com/",
+    "siteType":  "authority",
+    "positioning":  "S9 Roman Urdu local help authority for Pakistan mobile users",
+    "status":  "active",
+    "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+    "primaryKeywords":  [
+                            "s9 game kaise download kare",
+                            "s9 online Pakistan"
+                        ],
+    "secondaryKeywords":  [
+                              "s9 password bhool gaya",
+                              "s9 login OTP limit",
+                              "s9 number already used"
+                          ],
+    "competitors":  [
+                        "https://s9game.com.pk/",
+                        "https://www.supers9game.com.pk/",
+                        "https://s9game.cc/",
+                        "https://s9game.co/",
+                        "https://s9game.ac.pk/"
+                    ],
+    "technical":  {
+                      "sitemapUrl":  "https://s9onlinepk.com/sitemap.xml",
+                      "robotsUrl":  "https://s9onlinepk.com/robots.txt",
+                      "feedUrl":  "https://s9onlinepk.com/feed.xml",
+                      "canonicalRoot":  "https://s9onlinepk.com/",
+                      "hasH5Responsive":  true,
+                      "hasRegisterCta":  true,
+                      "hasLoginLink":  false,
+                      "hasLotteryDirection":  false
+                  },
+    "gsc":  {
+                "property":  "sc-domain:s9onlinepk.com",
+                "connected":  false,
+                "note":  "Set true only after GSC permission is verified and real data is imported."
+            },
+    "contentPlan":  {
+                        "homepageAngle":  "S9 Roman Urdu local help authority for Pakistan mobile users",
+                        "clusters":  [
+                                         "download",
+                                         "apk",
+                                         "register",
+                                         "wallet",
+                                         "support",
+                                         "faq",
+                                         "updates"
+                                     ],
+                        "weeklyUpdateTarget":  3
+                    },
+    "lastUpdated":  "2026-06-27"
+}
