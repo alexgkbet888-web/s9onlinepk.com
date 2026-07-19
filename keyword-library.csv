@@ -1,81 +1,81 @@
-id,keyword,intent,priority,page_type,target_page,last_modified,source
-1,s9 game kaise download kare,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
-2,s9 online Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
-3,s9 password bhool gaya,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
-4,s9 login OTP limit,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
-5,s9 number already used,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
-6,s9 Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
-7,s9 game Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
-8,S9 Roman Urdu Help support,brand,P2,support,/support/,2026-06-28,sop-full-audit
-9,S9 Roman Urdu Help FAQ,brand,P2,faq,/faq/,2026-06-28,sop-full-audit
-10,s9 roman urdu help Pakistan,category,P1,hub/category,/roman-urdu-help/,2026-06-28,sop-full-audit
-11,s9 online access Pakistan,category,P1,hub/category,/online-access/,2026-06-28,sop-full-audit
-12,s9 login help Pakistan,category,P1,hub/category,/login-help/,2026-06-28,sop-full-audit
-13,s9 download kaise kare Pakistan,category,P1,hub/category,/download-kaise-kare/,2026-06-28,sop-full-audit
-14,s9 mobile guide Pakistan,category,P1,hub/category,/mobile-guide/,2026-06-28,sop-full-audit
-15,s9 password bhool gaya kya kare,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-16,s9 otp nahi aa raha,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-17,s9 online Pakistan mobile par kaise khole,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-18,s9 account number already used kya kare,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-19,s9 online vs s9 apk,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
-20,s9 roman urdu guide vs english guide,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
-21,s9 login kaise kare vs register kaise kare,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
-22,s9 game kaise download kare Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-23,s9 game kaise download kare PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-24,s9 game kaise download kare Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-25,s9 game kaise download kare mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-26,s9 game kaise download kare H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-27,s9 game kaise download kare 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-28,s9 game kaise download kare guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-29,s9 game kaise download kare checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-30,s9 game kaise download kare fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-31,s9 game kaise download kare not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-32,s9 game kaise download kare latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-33,s9 game kaise download kare support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-34,s9 online Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-35,s9 online Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-36,s9 online Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-37,s9 online Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-38,s9 online Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-39,s9 online Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-40,s9 online Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-41,s9 online Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-42,s9 online Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-43,s9 online Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-44,s9 online Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-45,s9 online Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-46,s9 password bhool gaya Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-47,s9 password bhool gaya PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-48,s9 password bhool gaya Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-49,s9 password bhool gaya mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-50,s9 password bhool gaya H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-51,s9 password bhool gaya 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-52,s9 password bhool gaya guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-53,s9 password bhool gaya checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-54,s9 password bhool gaya fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-55,s9 password bhool gaya not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-56,s9 password bhool gaya latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-57,s9 password bhool gaya support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-58,s9 login OTP limit Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-59,s9 login OTP limit PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-60,s9 login OTP limit Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-61,s9 login OTP limit mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-62,s9 login OTP limit H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-63,s9 login OTP limit 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-64,s9 login OTP limit guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-65,s9 login OTP limit checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-66,s9 login OTP limit fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-67,s9 login OTP limit not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-68,s9 login OTP limit latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-69,s9 login OTP limit support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-70,s9 number already used Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-71,s9 number already used PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-72,s9 number already used Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-73,s9 number already used mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-74,s9 number already used H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-75,s9 number already used 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-76,s9 number already used guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-77,s9 number already used checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-78,s9 number already used fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-79,s9 number already used not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-80,s9 number already used latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+"id","keyword","intent","priority","page_type","target_page","last_modified","source"
+"1","s9 game kaise download kare","core","P1","homepage/pillar","/","2026-06-28","sop-full-audit"
+"2","s9 online Pakistan","core","P1","homepage/pillar","/","2026-06-28","sop-full-audit"
+"3","s9 password bhool gaya","long-tail","P1","supporting article","/blog/s9-password-bhool-gaya-2026-06-25/","2026-07-19","professional-keyword-framework-audit"
+"4","s9 login OTP limit","long-tail","P1","supporting article","/blog/s9-login-otp-limit-2026-06-24/","2026-07-19","professional-keyword-framework-audit"
+"5","s9 number already used","long-tail","P1","supporting article","/blog/s9-account-number-already-used-kya-kare-2026-07-01/","2026-07-19","professional-keyword-framework-audit"
+"6","s9 Pakistan","brand","P1","homepage","/","2026-06-28","sop-full-audit"
+"7","s9 game Pakistan","brand","P1","homepage","/","2026-06-28","sop-full-audit"
+"8","S9 Roman Urdu Help support","brand","P2","support","/support/","2026-06-28","sop-full-audit"
+"9","S9 Roman Urdu Help FAQ","brand","P2","faq","/faq/","2026-06-28","sop-full-audit"
+"10","s9 roman urdu help Pakistan","category","P1","hub/category","/roman-urdu-help/","2026-06-28","sop-full-audit"
+"11","s9 online access Pakistan","category","P1","hub/category","/roman-urdu-help-hub/","2026-07-19","professional-keyword-framework-audit"
+"12","s9 login help Pakistan","category","P1","hub/category","/blog/login-kaise-kare/","2026-07-19","professional-keyword-framework-audit"
+"13","s9 download kaise kare Pakistan","category","P1","hub/category","/blog/download-kaise-kare/","2026-07-19","professional-keyword-framework-audit"
+"14","s9 mobile guide Pakistan","category","P1","hub/category","/blog/mobile-problem-guide/","2026-07-19","professional-keyword-framework-audit"
+"15","s9 password bhool gaya kya kare","question","P1","faq/article","/blog/s9-password-bhool-gaya-2026-06-25/","2026-07-19","professional-keyword-framework-audit"
+"16","s9 otp nahi aa raha","question","P1","faq/article","/blog/otp-nahi-aa-raha-solution/","2026-07-19","professional-keyword-framework-audit"
+"17","s9 online Pakistan mobile par kaise khole","question","P1","faq/article","/blog/mobile-problem-guide/","2026-07-19","professional-keyword-framework-audit"
+"18","s9 account number already used kya kare","question","P1","faq/article","/blog/s9-account-number-already-used-kya-kare-2026-07-01/","2026-07-19","professional-keyword-framework-audit"
+"19","s9 online vs s9 apk","comparison","P2","comparison/article","/blog/","2026-06-28","sop-full-audit"
+"20","s9 roman urdu guide vs english guide","comparison","P2","comparison/article","/blog/","2026-06-28","sop-full-audit"
+"21","s9 login kaise kare vs register kaise kare","comparison","P2","comparison/article","/blog/","2026-06-28","sop-full-audit"
+"22","s9 game kaise download kare Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"23","s9 game kaise download kare PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"24","s9 game kaise download kare Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"25","s9 game kaise download kare mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"26","s9 game kaise download kare H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"27","s9 game kaise download kare 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"28","s9 game kaise download kare guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"29","s9 game kaise download kare checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"30","s9 game kaise download kare fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"31","s9 game kaise download kare not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"32","s9 game kaise download kare latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"33","s9 game kaise download kare support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"34","s9 online Pakistan Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"35","s9 online Pakistan PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"36","s9 online Pakistan Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"37","s9 online Pakistan mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"38","s9 online Pakistan H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"39","s9 online Pakistan 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"40","s9 online Pakistan guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"41","s9 online Pakistan checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"42","s9 online Pakistan fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"43","s9 online Pakistan not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"44","s9 online Pakistan latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"45","s9 online Pakistan support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"46","s9 password bhool gaya Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"47","s9 password bhool gaya PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"48","s9 password bhool gaya Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"49","s9 password bhool gaya mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"50","s9 password bhool gaya H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"51","s9 password bhool gaya 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"52","s9 password bhool gaya guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"53","s9 password bhool gaya checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"54","s9 password bhool gaya fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"55","s9 password bhool gaya not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"56","s9 password bhool gaya latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"57","s9 password bhool gaya support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"58","s9 login OTP limit Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"59","s9 login OTP limit PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"60","s9 login OTP limit Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"61","s9 login OTP limit mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"62","s9 login OTP limit H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"63","s9 login OTP limit 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"64","s9 login OTP limit guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"65","s9 login OTP limit checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"66","s9 login OTP limit fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"67","s9 login OTP limit not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"68","s9 login OTP limit latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"69","s9 login OTP limit support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"70","s9 number already used Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"71","s9 number already used PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"72","s9 number already used Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"73","s9 number already used mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"74","s9 number already used H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"75","s9 number already used 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"76","s9 number already used guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"77","s9 number already used checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"78","s9 number already used fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"79","s9 number already used not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"80","s9 number already used latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
